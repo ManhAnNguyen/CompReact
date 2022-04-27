@@ -7,7 +7,7 @@ function App() {
     console.log(val);
   };
 
-  return <>date picker</>;
+  return <>date pisaasåcker</>;
 }
 
 export default App;
